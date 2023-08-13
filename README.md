@@ -5,7 +5,7 @@ Other services used to run Wetro Transportation Services.
 Rail Announcements Generator by Roy Curtis (English)         
 Nuance Text-To-Speech by Nuance Inc. (Turkish)
 
-**Station Security Announcements:**                  
+**Train/Destination Security Announcements:**                  
 Nuance Text-To-Speech by Nuance Inc. (Turkish/English)
 
 **Announcement Chime**                  
